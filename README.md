@@ -1,2 +1,2 @@
 # Calcolatrice
-Calcolatrice con operazioni non in cascata
+Calcolatrice con operazioni in cascata
