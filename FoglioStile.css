@@ -1,7 +1,20 @@
 /* 
-    Created on : 1-mag-2017, 14.22.22
+    Created on : 5-mag-2017, 22.15.22
     Author     : enrico.verde
 */
+#container{
+    background-color: yellowgreen;
+    display: inline-block;
+    border-radius: 15px;
+    height: 370px;
+    width: 310px;
+    border-width: 10px;
+    border-style: ridge;
+    border-color: #737373;
+}
+body{
+    color: blue;
+}
 button{
 	background-color: green;
 	border-radius: 25px;
@@ -34,4 +47,3 @@ h2{
     position:relative;
     left: 10px;
 }
-
