@@ -1,7 +1,7 @@
 /* 
- * @author enrico.verde
+ * @author verde.enrico
  */
-window.onload = function () {
+window.onload = function(){
     new Gestore();
 };
 
